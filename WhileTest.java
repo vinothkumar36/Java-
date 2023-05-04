@@ -3,19 +3,19 @@ public class WhileTest {
 	public static void main(String[] args) {
 		WhileTest obj = new WhileTest();
     	obj.nNos(5);
-		obj.sumOfNaturalNos(5);
+	obj.sumOfNaturalNos(5);
     	obj.sumOfEvenNos(3);
-		obj.sumOfOddNos(5);
+	obj.sumOfOddNos(5);
     	obj.noOfDigitsCount(123);
     	obj.sumOfDigitsOfaNo(12345);
-		obj.firstAndLastDigit(48889775);
+	obj.firstAndLastDigit(48889775);
     	obj.sumOfFirstAndLastDigit(2456);
-   		obj.reverseTheNo(123);
-		obj.primeNo(12);
-		obj.reverseTheNoAndPrimeOrNot(31);
+   	obj.reverseTheNo(123);
+	obj.primeNo(12);
+	obj.reverseTheNoAndPrimeOrNot(31);
     	obj.sumOfGivenNoAndPrimeOrNot(17);
-		obj.palindrome(121);
-		obj.divisors(10);
+	obj.palindrome(121);
+	obj.divisors(10);
 	}
 
 	public void nNos(int n) {
